@@ -1,0 +1,6 @@
+﻿instance_id,model,provider,stage,status,latency_seconds,prompt_tokens,completion_tokens,total_tokens,timestamp_utc
+ADSO_TEST_084,openai/gpt-oss-120b,Groq,E1,API_ERROR,0.0452,,,,2026-09-14T19:45:48.938337+00:00
+ADSO_TEST_084,openai/gpt-oss-120b,Groq,E1,API_ERROR,0.0459,,,,2026-09-14T19:47:13.960917+00:00
+ADSO_TEST_086,openai/gpt-oss-120b,Groq,E1,API_ERROR,0.0445,,,,2026-09-14T19:45:54.423771+00:00
+ADSO_TEST_086,openai/gpt-oss-120b,Groq,E1,API_ERROR,0.0473,,,,2026-09-14T19:47:18.102206+00:00
+ADSO_TEST_087,openai/gpt-oss-120b,Groq,E1,API_ERROR,0.0441,,,,2026-09-14T19:45:58.555059+00:00

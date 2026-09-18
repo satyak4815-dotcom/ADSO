@@ -1,0 +1,11 @@
+{
+  "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+  "provider": "Hugging Face / local Colab",
+  "hardware_recorded_for_e1": "Tesla T4",
+  "do_sample": false,
+  "c0_c3_rows": 480,
+  "e1_rows": 120,
+  "e1_malformed_rows": 1,
+  "ablation_rows": 360,
+  "seed_recorded_for_ablation": 20260916
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ADSO Final Held-out Benchmark v1.0",
+  "status": "FROZEN",
+  "problems": 60,
+  "instances": 120,
+  "optimize": 60,
+  "preserve": 60,
+  "level_A_pairs": 41,
+  "level_B_pairs": 19,
+  "correctness_executions": "640/640 successful",
+  "runtime_error_or_timeout_programs": 0,
+  "randomization_seed": 20260915,
+  "canonical_id_prefix": "ADSO_TEST_",
+  "upstream": "ACEOB test split",
+  "upstream_repo": "https://github.com/CodeGeneration2/ACEOB",
+  "upstream_paper_doi": "10.1016/j.jss.2024.112250"
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these ADSO benchmark artifacts, please cite the associated paper."
+title: "ADSO: Adaptive Diagnostic Sufficiency for Optimization — Benchmark and Reproducibility Artifacts"
+type: dataset
+authors:
+  - family-names: "Singh"
+    given-names: "Satya Krishna"
+  - family-names: "Singh"
+    given-names: "Archisha"
+version: "1.0"
+date-released: 2026-09-18
+keywords:
+  - large language models
+  - code optimization
+  - program analysis
+  - adaptive evidence acquisition
+  - confidence calibration

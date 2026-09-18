@@ -1,0 +1,10 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "provider": "Groq",
+  "sampling": "provider defaults; no temperature/top_p override recorded",
+  "c0_c3_expected_final_rows": 480,
+  "e1_final_rows": 120,
+  "ablation_rows": 360,
+  "ablation_malformed_rows": 5,
+  "notes": "GPT E1 contains technical API retries; final canonical E1 uses one successful row per instance."
+}

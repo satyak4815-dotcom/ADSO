@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen3-8B",
+  "thinking_mode": "disabled",
+  "thinking_control": "tokenizer.apply_chat_template(enable_thinking=False)",
+  "do_sample": false,
+  "seed": 20260916,
+  "c0_c3_rows": 480,
+  "e1_rows": 120,
+  "e1_malformed_rows": 2,
+  "ablation_rows": 360
+}

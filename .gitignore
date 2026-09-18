@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Local notebooks / caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local raw experiment dumps
+raw/
+backups/
+*.bak

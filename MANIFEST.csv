@@ -1,0 +1,8 @@
+﻿file,source_sheet,rows_including_header,purpose
+dataset/benchmark_summary.csv,Benchmark Summary,11,High-level frozen benchmark counts and audit status.
+dataset/pair_validation.csv,Pair Validation,61,Pair-level validation evidence used during benchmark construction.
+dataset/benchmark_instances.csv,Benchmark Instances,121,120 neutral-ID program instances; no intervention label.
+dataset/e0_prompts.csv,E0 Prompts,121,Frozen E0 prompts used as base decision evidence.
+dataset/e2_static_evidence.csv,E2 Static Evidence,121,Deterministic static-analysis evidence.
+dataset/e3_dynamic_evidence.csv,E3 Dynamic Evidence,121,Absolute dynamic profiling evidence; no pair-relative speedup.
+dataset/ground_truth.csv,PRIVATE Ground Truth,121,Post-evaluation ground truth for reproducibility; never use as model input.

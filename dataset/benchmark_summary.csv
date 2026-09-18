@@ -1,0 +1,11 @@
+﻿Metric,Value
+Unique held-out problems,60
+Program instances,120
+OPTIMIZE labels,60
+PRESERVE labels,60
+Level A pairs,41
+Level B pairs,19
+Program-test executions,640/640 successful
+Programs with runtime error/timeout,0
+Randomization seed,20260915
+Status,FROZEN
